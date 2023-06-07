@@ -16,5 +16,5 @@ Lista de revisão da primeira semana se junho no projeto Cataslisa. Os exercíci
 - **Exercício 07** - o usuário digita um número de identificação aleatório e depois um valor inteiro qualquer. O sistema irá repetir em tela o número de identificação seguindo o total do segundo valor que fora digitado.
 - **Exercício 08** - usuário digita N números de salários e depois é convidado a digitar um reajuste. O sistema sozinho faz os cáculos e mostra o valor reajustado de cada valor inserido
 ## Lista entregue fora do prazo
-- **Exercício 03** - Aguardando...
-- **Exercício 09** - O programa automaticamente cria um vetor com 50 posições e preenche cada uma delas com um número a partir de 101
+- **Exercício 03** - Programa adiciona um aluno e suas notas, calculando sua média e sua média de aproveitamento e sua classificação final.
+- **Exercício 09** - O programa automaticamente cria um vetor com 50 posições e preenche cada uma delas com um número a partir de 101.
