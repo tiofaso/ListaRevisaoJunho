@@ -4,6 +4,7 @@ Lista de revisão da primeira semana se junho no projeto Cataslisa. Os exercíci
 
 > 
 > **Warning**:  Importante: a branch original teve problema de upload, precisou ser apagada e reenviada para o git
+> **Warning**:  Na hora do envio dos arquivos no classroom o livepass desconectou e todo o processo de login só terminou exatamente às 18h, acusando atraso no envio. 
 
 ## Lista entregue no prazo
 - **Exercício 01** - o usuário vai digitar dois números inteiros e se forem iguais o programa deve somar, caso contrário multiplicar. Em ambos os casos exibir o valor final na tela.
